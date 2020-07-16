@@ -1,7 +1,7 @@
-def meal_choice (broccoli,carrots,protein = "tofu")
+def meal_choice (broccoli,carrots,protein = 'tofu')
   puts "What a nutritious meal!"
 end
- meal_choice(broccoli,carrots, protein = "tofu")
+ meal_choice(broccoli,carrots, protein = 'tofu')
 
 # def meal_choice(broccoli,carrots, protein = tofu)
 #   puts 
