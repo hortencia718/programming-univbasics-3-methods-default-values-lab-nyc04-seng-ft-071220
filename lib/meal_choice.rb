@@ -1,4 +1,4 @@
-def meal_choice (broccoli,carrots, tofu)
+def meal_choice (broccoli,carrots,protein = tofu)
   puts "What a nutritious meal!"
 end
  meal_choice(broccoli,carrots,tofu)
